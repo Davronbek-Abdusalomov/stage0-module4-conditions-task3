@@ -6,7 +6,7 @@ public class DaysInMonthPrinter {
             System.out.print(31);
         }
         else if (month==2){
-            System.out.println(30);
+            System.out.println(28);
         }
         else if (month==3){
             System.out.println(31);
